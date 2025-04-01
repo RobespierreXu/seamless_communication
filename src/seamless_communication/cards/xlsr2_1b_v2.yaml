@@ -7,4 +7,5 @@
 name: xlsr2_1b_v2
 model_type: wav2vec2
 model_arch: xlsr2_1b_v2
-checkpoint: "https://dl.fbaipublicfiles.com/seamlessM4T/models/unit_extraction/xlsr2_1b_v2.pt"
+checkpoint: "file:///mnt/seamless_communication/models/xlsr2_1b_v2.pt"
+#checkpoint: "https://dl.fbaipublicfiles.com/seamlessM4T/models/unit_extraction/xlsr2_1b_v2.pt"
